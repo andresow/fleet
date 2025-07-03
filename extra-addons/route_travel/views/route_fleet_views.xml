@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <!-- View route.fleet View Tree -->
+    <record id="view_route_fleet_tree" model="ir.ui.view">
+        <field name="name">view.route.fleet.tree</field>
+        <field name="model">route.fleet</field>
+        <field name="arch" type="xml">
+            <tree string="Viaje">
+                <field name="folio_route"/>
+                <field name="fleet_id"/>
+                <field name="sale_id"/>
+                <field name="departure_travel"/>
+                <field name="return_travel"/>
+                <field name="origen"/>
+                <field name="destination"/>
+                <field name="description" optional="1"/>
+                <field name="loaded"/>
+                <field name="route_type"/>
+                <field name="initial_km" optional="1"/>
+                <field name="final_km" optional="1"/>
+                <field name="weight" optional="1"/>
+            </tree>
+        </field>
+    </record>
+
+    <!-- View route.fleet form -->
+    <record id="view_route_fleet_form" model="ir.ui.view">
+        <field name="name">view.route.fleet.form</field>
+        <field name="model">route.fleet</field>
+        <field name="arch" type="xml">
+            <form string="Viaje">
+                <sheet>
+                    <group string="Informacion core">
+                        <field name="folio_route"/>
+                        <field name="fleet_id" required="1"/>
+                        <field name="sale_id" required="1"/>
+                    </group>
+                    <notebook >
+                        <page name="Informacion del viaje">
+                            <group>
+                                <field name="origen" required="1"/>
+                                <field name="destination" required="1"/>
+                                <field name="departure_travel" required="1"/>
+                                <field name="return_travel" required="1"/>
+                                <field name="description" />
+                                <field name="loaded"/>
+                                <field name="weight" attrs="{'invisible': [('loaded','=',False)]}"/>
+                                <field name="route_type" />
+                                <field name="initial_km" force_save="1"/>
+                                <field name="final_km" force_save="1"/>
+                            </group>
+                        </page>
+                        <page name="Informacion de la flota">
+                            <group>
+                                <field name="driver_id" />
+                                <field name="number_employee" />
+                            </group>
+                        </page>
+                        <page name="Informacion de la venta">
+                            <group>
+                                <field name="amount_total" />
+                                <field name="amount_tax" />
+                                <field name="currency_id" />
+                                <field name="note_sale" />
+                            </group>
+                        </page>
+                    </notebook>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <!-- View route.fleet search -->
+    <record id="view_route_fleet_search" model="ir.ui.view">
+        <field name="name">view.route.fleet.search</field>
+        <field name="model">route.fleet</field>
+        <field name="arch" type="xml">
+            <search>
+                <group expand="1" string="Group By">
+                    <filter string="departure_travel" name="departure_travel" domain="[]" context="{'group_by':'departure_travel'}"/>
+                </group>
+            </search>
+        </field>
+    </record>
+
+    <!-- Action route.fleet -->
+    <record id="action_route_fleet" model="ir.actions.act_window">
+        <field name="name">Viajes</field>
+        <field name="type">ir.actions.act_window</field>
+        <field name="res_model">route.fleet</field>
+        <field name="view_mode">tree,form</field>
+        <field name="domain">[]</field>
+        <field name="context">{}</field>
+        <field name="help" type="html">
+            <p class="oe_view_nocontent_create">
+                Añada viajes para sus rutas, comenzemos.
+            </p>
+        </field>
+    </record>
+
+    <menuitem name="Viajes" id="route_fleet" parent="fleet.fleet_vehicles" sequence="3" action="action_route_fleet"/>
+
+</odoo>

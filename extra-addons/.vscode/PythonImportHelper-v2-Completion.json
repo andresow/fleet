@@ -1,0 +1,2974 @@
+[
+    {
+        "label": "http",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "fields",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "importPath": "odoo",
+        "description": "odoo",
+        "isExtraImport": true,
+        "detail": "odoo",
+        "documentation": {}
+    },
+    {
+        "label": "odoo.http",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "content_disposition",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "route",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "serialize_exception",
+        "importPath": "odoo.http",
+        "description": "odoo.http",
+        "isExtraImport": true,
+        "detail": "odoo.http",
+        "documentation": {}
+    },
+    {
+        "label": "serialize_exception",
+        "importPath": "odoo.addons.web.controllers.main",
+        "description": "odoo.addons.web.controllers.main",
+        "isExtraImport": true,
+        "detail": "odoo.addons.web.controllers.main",
+        "documentation": {}
+    },
+    {
+        "label": "content_disposition",
+        "importPath": "odoo.addons.web.controllers.main",
+        "description": "odoo.addons.web.controllers.main",
+        "isExtraImport": true,
+        "detail": "odoo.addons.web.controllers.main",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "etree",
+        "importPath": "lxml",
+        "description": "lxml",
+        "isExtraImport": true,
+        "detail": "lxml",
+        "documentation": {}
+    },
+    {
+        "label": "odoo.addons.decimal_precision",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "odoo.addons.decimal_precision",
+        "description": "odoo.addons.decimal_precision",
+        "detail": "odoo.addons.decimal_precision",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Warning",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Warning",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "Warning",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UserError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "odoo.exceptions",
+        "description": "odoo.exceptions",
+        "isExtraImport": true,
+        "detail": "odoo.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "createBarcodeDrawing",
+        "importPath": "reportlab.graphics.barcode",
+        "description": "reportlab.graphics.barcode",
+        "isExtraImport": true,
+        "detail": "reportlab.graphics.barcode",
+        "documentation": {}
+    },
+    {
+        "label": "createBarcodeDrawing",
+        "importPath": "reportlab.graphics.barcode",
+        "description": "reportlab.graphics.barcode",
+        "isExtraImport": true,
+        "detail": "reportlab.graphics.barcode",
+        "documentation": {}
+    },
+    {
+        "label": "createBarcodeDrawing",
+        "importPath": "reportlab.graphics.barcode",
+        "description": "reportlab.graphics.barcode",
+        "isExtraImport": true,
+        "detail": "reportlab.graphics.barcode",
+        "documentation": {}
+    },
+    {
+        "label": "mm",
+        "importPath": "reportlab.lib.units",
+        "description": "reportlab.lib.units",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.units",
+        "documentation": {}
+    },
+    {
+        "label": "mm",
+        "importPath": "reportlab.lib.units",
+        "description": "reportlab.lib.units",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.units",
+        "documentation": {}
+    },
+    {
+        "label": "mm",
+        "importPath": "reportlab.lib.units",
+        "description": "reportlab.lib.units",
+        "isExtraImport": true,
+        "detail": "reportlab.lib.units",
+        "documentation": {}
+    },
+    {
+        "label": "pytz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytz",
+        "description": "pytz",
+        "detail": "pytz",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "float_round",
+        "importPath": "odoo.tools.float_utils",
+        "description": "odoo.tools.float_utils",
+        "isExtraImport": true,
+        "detail": "odoo.tools.float_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "importPath": "dateutil",
+        "description": "dateutil",
+        "isExtraImport": true,
+        "detail": "dateutil",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SERVER_DATE_FORMAT",
+        "importPath": "odoo.tools",
+        "description": "odoo.tools",
+        "isExtraImport": true,
+        "detail": "odoo.tools",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SERVER_DATETIME_FORMAT",
+        "importPath": "odoo.tools",
+        "description": "odoo.tools",
+        "isExtraImport": true,
+        "detail": "odoo.tools",
+        "documentation": {}
+    },
+    {
+        "label": "float_is_zero",
+        "importPath": "odoo.tools",
+        "description": "odoo.tools",
+        "isExtraImport": true,
+        "detail": "odoo.tools",
+        "documentation": {}
+    },
+    {
+        "label": "float_is_zero",
+        "importPath": "odoo.tools",
+        "description": "odoo.tools",
+        "isExtraImport": true,
+        "detail": "odoo.tools",
+        "documentation": {}
+    },
+    {
+        "label": "pycompat",
+        "importPath": "odoo.tools",
+        "description": "odoo.tools",
+        "isExtraImport": true,
+        "detail": "odoo.tools",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SERVER_DATE_FORMAT",
+        "importPath": "odoo.tools",
+        "description": "odoo.tools",
+        "isExtraImport": true,
+        "detail": "odoo.tools",
+        "documentation": {}
+    },
+    {
+        "label": "mute_logger",
+        "importPath": "odoo.tools",
+        "description": "odoo.tools",
+        "isExtraImport": true,
+        "detail": "odoo.tools",
+        "documentation": {}
+    },
+    {
+        "label": "html_escape",
+        "importPath": "odoo.tools",
+        "description": "odoo.tools",
+        "isExtraImport": true,
+        "detail": "odoo.tools",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "dateutil.parser",
+        "description": "dateutil.parser",
+        "isExtraImport": true,
+        "detail": "dateutil.parser",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "ExcelExport",
+        "importPath": "odoo.addons.web.controllers.export",
+        "description": "odoo.addons.web.controllers.export",
+        "isExtraImport": true,
+        "detail": "odoo.addons.web.controllers.export",
+        "documentation": {}
+    },
+    {
+        "label": "itemgetter",
+        "importPath": "operator",
+        "description": "operator",
+        "isExtraImport": true,
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "itemgetter",
+        "importPath": "operator",
+        "description": "operator",
+        "isExtraImport": true,
+        "detail": "operator",
+        "documentation": {}
+    },
+    {
+        "label": "relativedelta",
+        "importPath": "dateutil.relativedelta",
+        "description": "dateutil.relativedelta",
+        "isExtraImport": true,
+        "detail": "dateutil.relativedelta",
+        "documentation": {}
+    },
+    {
+        "label": "relativedelta",
+        "importPath": "dateutil.relativedelta",
+        "description": "dateutil.relativedelta",
+        "isExtraImport": true,
+        "detail": "dateutil.relativedelta",
+        "documentation": {}
+    },
+    {
+        "label": "relativedelta",
+        "importPath": "dateutil.relativedelta",
+        "description": "dateutil.relativedelta",
+        "isExtraImport": true,
+        "detail": "dateutil.relativedelta",
+        "documentation": {}
+    },
+    {
+        "label": "relativedelta",
+        "importPath": "dateutil.relativedelta",
+        "description": "dateutil.relativedelta",
+        "isExtraImport": true,
+        "detail": "dateutil.relativedelta",
+        "documentation": {}
+    },
+    {
+        "label": "relativedelta",
+        "importPath": "dateutil.relativedelta",
+        "description": "dateutil.relativedelta",
+        "isExtraImport": true,
+        "detail": "dateutil.relativedelta",
+        "documentation": {}
+    },
+    {
+        "label": "calendar",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "calendar",
+        "description": "calendar",
+        "detail": "calendar",
+        "documentation": {}
+    },
+    {
+        "label": "safe_eval",
+        "importPath": "odoo.tools.safe_eval",
+        "description": "odoo.tools.safe_eval",
+        "isExtraImport": true,
+        "detail": "odoo.tools.safe_eval",
+        "documentation": {}
+    },
+    {
+        "label": "safe_eval",
+        "importPath": "odoo.tools.safe_eval",
+        "description": "odoo.tools.safe_eval",
+        "isExtraImport": true,
+        "detail": "odoo.tools.safe_eval",
+        "documentation": {}
+    },
+    {
+        "label": "safe_eval",
+        "importPath": "odoo.tools.safe_eval",
+        "description": "odoo.tools.safe_eval",
+        "isExtraImport": true,
+        "detail": "odoo.tools.safe_eval",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "odoo.tools.safe_eval",
+        "description": "odoo.tools.safe_eval",
+        "isExtraImport": true,
+        "detail": "odoo.tools.safe_eval",
+        "documentation": {}
+    },
+    {
+        "label": "FALSE_DOMAIN",
+        "importPath": "odoo.osv.expression",
+        "description": "odoo.osv.expression",
+        "isExtraImport": true,
+        "detail": "odoo.osv.expression",
+        "documentation": {}
+    },
+    {
+        "label": "NEGATIVE_TERM_OPERATORS",
+        "importPath": "odoo.osv.expression",
+        "description": "odoo.osv.expression",
+        "isExtraImport": true,
+        "detail": "odoo.osv.expression",
+        "documentation": {}
+    },
+    {
+        "label": "TRUE_DOMAIN",
+        "importPath": "odoo.osv.expression",
+        "description": "odoo.osv.expression",
+        "isExtraImport": true,
+        "detail": "odoo.osv.expression",
+        "documentation": {}
+    },
+    {
+        "label": "DAILY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "MONTHLY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "WEEKLY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "YEARLY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "MONTHLY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "MONTHLY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "MONTHLY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "YEARLY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "DAILY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "MONTHLY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "WEEKLY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "YEARLY",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "rrule",
+        "importPath": "dateutil.rrule",
+        "description": "dateutil.rrule",
+        "isExtraImport": true,
+        "detail": "dateutil.rrule",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionCase",
+        "importPath": "odoo.tests.common",
+        "description": "odoo.tests.common",
+        "isExtraImport": true,
+        "detail": "odoo.tests.common",
+        "documentation": {}
+    },
+    {
+        "label": "Form",
+        "importPath": "odoo.tests.common",
+        "description": "odoo.tests.common",
+        "isExtraImport": true,
+        "detail": "odoo.tests.common",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionCase",
+        "importPath": "odoo.tests.common",
+        "description": "odoo.tests.common",
+        "isExtraImport": true,
+        "detail": "odoo.tests.common",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionCase",
+        "importPath": "odoo.tests.common",
+        "description": "odoo.tests.common",
+        "isExtraImport": true,
+        "detail": "odoo.tests.common",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionCase",
+        "importPath": "odoo.tests.common",
+        "description": "odoo.tests.common",
+        "isExtraImport": true,
+        "detail": "odoo.tests.common",
+        "documentation": {}
+    },
+    {
+        "label": "FakeModelLoader",
+        "importPath": "odoo_test_helper",
+        "description": "odoo_test_helper",
+        "isExtraImport": true,
+        "detail": "odoo_test_helper",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "isExtraImport": true,
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "url_decode",
+        "importPath": "werkzeug.urls",
+        "description": "werkzeug.urls",
+        "isExtraImport": true,
+        "detail": "werkzeug.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ReportController",
+        "importPath": "odoo.addons.web.controllers.report",
+        "description": "odoo.addons.web.controllers.report",
+        "isExtraImport": true,
+        "detail": "odoo.addons.web.controllers.report",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "common",
+        "importPath": "odoo.tests",
+        "description": "odoo.tests",
+        "isExtraImport": true,
+        "detail": "odoo.tests",
+        "documentation": {}
+    },
+    {
+        "label": "BinaryCDFIInvoice",
+        "kind": 6,
+        "importPath": "cdfi_invoice.controllers.main",
+        "description": "cdfi_invoice.controllers.main",
+        "peekOfCode": "class BinaryCDFIInvoice(http.Controller):\n    @http.route('/web/binary/download_document', type='http', auth=\"public\")\n    @serialize_exception\n    def download_document(self,model,field,id,filename=None, **kw):\n        \"\"\" Download link for files stored as binary fields.\n         :param str model: name of the model to fetch the binary from\n         :param str field: binary field\n         :param str id: id of the record from which to fetch the binary\n         :param str filename: field holding the file's name, if any\n         :returns: :class:`werkzeug.wrappers.Response`",
+        "detail": "cdfi_invoice.controllers.main",
+        "documentation": {}
+    },
+    {
+        "label": "AccountMove",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_invoice",
+        "description": "cdfi_invoice.models.account_invoice",
+        "peekOfCode": "class AccountMove(models.Model):\n    _inherit = 'account.move'\n    factura_cfdi = fields.Boolean('Factura CFDI')\n    tipo_comprobante = fields.Selection(\n        selection=[('I', 'Ingreso'),\n                   ('E', 'Egreso'),\n                   ('T', 'Traslado'),\n                   ],\n        string=_('Tipo de comprobante'),\n    )",
+        "detail": "cdfi_invoice.models.account_invoice",
+        "documentation": {}
+    },
+    {
+        "label": "MailTemplate",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_invoice",
+        "description": "cdfi_invoice.models.account_invoice",
+        "peekOfCode": "class MailTemplate(models.Model):\n    \"Templates for sending email\"\n    _inherit = 'mail.template'\n    def generate_email(self, res_ids, fields=None):\n        multi_mode = True\n        if isinstance(res_ids, (int)):\n            res_ids = [res_ids]\n            multi_mode = False\n        results = super(MailTemplate, self).generate_email(res_ids, fields=fields)\n        for lang, (template, template_res_ids) in self._classify_per_lang(res_ids).items():",
+        "detail": "cdfi_invoice.models.account_invoice",
+        "documentation": {}
+    },
+    {
+        "label": "AccountMoveLine",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_invoice",
+        "description": "cdfi_invoice.models.account_invoice",
+        "peekOfCode": "class AccountMoveLine(models.Model):\n    _inherit = \"account.move.line\"\n    pedimento = fields.Char('Pedimento')\n    predial = fields.Char('No. Predial')\nclass MyModuleMessageWizard(models.TransientModel):\n    _name = 'mymodule.message.wizard'\n    _description = \"Show Message\"\n    message = fields.Text('Message', required=True)\n    #    @api.multi\n    def action_close(self):",
+        "detail": "cdfi_invoice.models.account_invoice",
+        "documentation": {}
+    },
+    {
+        "label": "MyModuleMessageWizard",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_invoice",
+        "description": "cdfi_invoice.models.account_invoice",
+        "peekOfCode": "class MyModuleMessageWizard(models.TransientModel):\n    _name = 'mymodule.message.wizard'\n    _description = \"Show Message\"\n    message = fields.Text('Message', required=True)\n    #    @api.multi\n    def action_close(self):\n        return {'type': 'ir.actions.act_window_close'}",
+        "detail": "cdfi_invoice.models.account_invoice",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "cdfi_invoice.models.account_invoice",
+        "description": "cdfi_invoice.models.account_invoice",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nclass AccountMove(models.Model):\n    _inherit = 'account.move'\n    factura_cfdi = fields.Boolean('Factura CFDI')\n    tipo_comprobante = fields.Selection(\n        selection=[('I', 'Ingreso'),\n                   ('E', 'Egreso'),\n                   ('T', 'Traslado'),\n                   ],\n        string=_('Tipo de comprobante'),",
+        "detail": "cdfi_invoice.models.account_invoice",
+        "documentation": {}
+    },
+    {
+        "label": "AccountJournal",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_journal",
+        "description": "cdfi_invoice.models.account_journal",
+        "peekOfCode": "class AccountJournal(models.Model):\n    _inherit = 'account.journal'\n    forma_pago_id  =  fields.Many2one('catalogo.forma.pago', string='Forma de pago')\n    codigo_postal = fields.Char(\"Código Postal\")\n    tz = fields.Selection(_tz_get, string='Zona horaria', default=lambda self: self._context.get('tz'))\n    serie_diario = fields.Char(\"Serie\")",
+        "detail": "cdfi_invoice.models.account_journal",
+        "documentation": {}
+    },
+    {
+        "label": "_tzs",
+        "kind": 5,
+        "importPath": "cdfi_invoice.models.account_journal",
+        "description": "cdfi_invoice.models.account_journal",
+        "peekOfCode": "_tzs = [(tz, tz) for tz in sorted(pytz.all_timezones, key=lambda tz: tz if not tz.startswith('Etc/') else '_')]\ndef _tz_get(self):\n    return _tzs\nclass AccountJournal(models.Model):\n    _inherit = 'account.journal'\n    forma_pago_id  =  fields.Many2one('catalogo.forma.pago', string='Forma de pago')\n    codigo_postal = fields.Char(\"Código Postal\")\n    tz = fields.Selection(_tz_get, string='Zona horaria', default=lambda self: self._context.get('tz'))\n    serie_diario = fields.Char(\"Serie\")",
+        "detail": "cdfi_invoice.models.account_journal",
+        "documentation": {}
+    },
+    {
+        "label": "AccountRegisterPayment",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_payment",
+        "description": "cdfi_invoice.models.account_payment",
+        "peekOfCode": "class AccountRegisterPayment(models.TransientModel):\n    _inherit = 'account.payment.register'\n    def validate_complete_payment(self):\n        for rec in self:\n            payments = rec._create_payments()\n            if len(payments) > 1:\n               return\n            else:\n               return {\n                  'name': _('Payments'),",
+        "detail": "cdfi_invoice.models.account_payment",
+        "documentation": {}
+    },
+    {
+        "label": "AccountPayment",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_payment",
+        "description": "cdfi_invoice.models.account_payment",
+        "peekOfCode": "class AccountPayment(models.Model):\n    _inherit = 'account.payment'\n    forma_pago_id = fields.Many2one('catalogo.forma.pago', string='Forma de pago')\n    forma_de_pago = fields.Char(related=\"forma_pago_id.code\", string=\"Forma pago\")\n    methodo_pago = fields.Selection(\n        selection=[('PUE', _('Pago en una sola exhibición')),\n                   ('PPD', _('Pago en parcialidades o diferido')),],\n        string=_('Método de pago'), \n    )\n#    no_de_pago = fields.Integer(\"No. de pago\", readonly=True)",
+        "detail": "cdfi_invoice.models.account_payment",
+        "documentation": {}
+    },
+    {
+        "label": "AccountPaymentMail",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_payment",
+        "description": "cdfi_invoice.models.account_payment",
+        "peekOfCode": "class AccountPaymentMail(models.Model):\n    _name = \"account.payment.mail\"\n    _inherit = ['mail.thread']\n    _description = \"Payment Mail\"\n    payment_id = fields.Many2one('account.payment', string='Payment')\n    name = fields.Char(related='payment_id.name')\n    xml_payment_link = fields.Char(related='payment_id.xml_payment_link')\n    partner_id = fields.Many2one(related='payment_id.partner_id')\n    company_id = fields.Many2one(related='payment_id.company_id')\nclass MailTemplate(models.Model):",
+        "detail": "cdfi_invoice.models.account_payment",
+        "documentation": {}
+    },
+    {
+        "label": "MailTemplate",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_payment",
+        "description": "cdfi_invoice.models.account_payment",
+        "peekOfCode": "class MailTemplate(models.Model):\n    \"Templates for sending email\"\n    _inherit = 'mail.template'\n    @api.model\n    def _get_file(self, url):\n        url = url.encode('utf8')\n        filename, headers = urllib.urlretrieve(url)\n        fn, file_extension = os.path.splitext(filename)\n        return  filename, file_extension.replace('.', '')\n    def generate_email(self, res_ids, fields=None):",
+        "detail": "cdfi_invoice.models.account_payment",
+        "documentation": {}
+    },
+    {
+        "label": "AccountPaymentTerm",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_payment",
+        "description": "cdfi_invoice.models.account_payment",
+        "peekOfCode": "class AccountPaymentTerm(models.Model):\n    \"Terminos de pago\"\n    _inherit = \"account.payment.term\"\n    methodo_pago = fields.Selection(\n        selection=[('PUE', _('Pago en una sola exhibición')),\n                   ('PPD', _('Pago en parcialidades o diferido')),],\n        string=_('Método de pago'), \n    )\n    forma_pago_id  =  fields.Many2one('catalogo.forma.pago', string='Forma de pago')\nclass FacturasPago(models.Model):",
+        "detail": "cdfi_invoice.models.account_payment",
+        "documentation": {}
+    },
+    {
+        "label": "FacturasPago",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_payment",
+        "description": "cdfi_invoice.models.account_payment",
+        "peekOfCode": "class FacturasPago(models.Model):\n    _name = \"facturas.pago\"\n    _description = 'Facturas ligadas a pago'\n    doc_id = fields.Many2one('account.payment', 'Pago ligado')\n    facturas_id = fields.Many2one('account.move', string='Factura')\n    parcialidad = fields.Integer(\"Parcialidad\")\n    imp_saldo_ant = fields.Float(\"ImpSaldoAnt\")\n    imp_pagado = fields.Float(\"ImpPagado\")\n    imp_saldo_insoluto = fields.Float(\"ImpSaldoInsoluto\", compute='_compute_insoluto')\n    equivalenciadr = fields.Float(\"EquivalenciaDR\", digits = (12,10), default = 1)",
+        "detail": "cdfi_invoice.models.account_payment",
+        "documentation": {}
+    },
+    {
+        "label": "AccountTax",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.account_tax",
+        "description": "cdfi_invoice.models.account_tax",
+        "peekOfCode": "class AccountTax(models.Model):\n    _inherit = 'account.tax'\n    impuesto = fields.Selection(selection=[('002', 'IVA'),\n                                           ('003', ' IEPS'),\n                                           ('001', 'ISR'),\n                                           ('004', 'Impuesto Local')], string='Impuesto')\n    tipo_factor = fields.Selection(selection=[('Tasa', 'Tasa'),\n                                           ('Cuota', 'Cuota'),\n                                           ('Exento', 'Exento')], string='Tipo factor')\n    impuesto_local = fields.Char('Impuesto Local')",
+        "detail": "cdfi_invoice.models.account_tax",
+        "documentation": {}
+    },
+    {
+        "label": "amount_to_text",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.amount_to_text_es_MX",
+        "description": "cdfi_invoice.models.amount_to_text_es_MX",
+        "peekOfCode": "class amount_to_text:\n    \"\"\"\n    Transforma de una cantidad numerica a cantidad en letra\n    ej. 200 -> doscientos\n    \"\"\"\n    def __init__(self):\n        self._n1 = [\n            \"un\", \"dos\", \"tres\", \"cuatro\", \"cinco\", \"seis\", \"siete\", \"ocho\",\n            \"nueve\", \"diez\", \"once\", \"doce\", \"trece\", \"catorce\", \"quince\",\n            \"dieciseis\", \"diecisiete\", \"dieciocho\", \"diecinueve\", \"veinte\"]",
+        "detail": "cdfi_invoice.models.amount_to_text_es_MX",
+        "documentation": {}
+    },
+    {
+        "label": "get_amount_to_text",
+        "kind": 2,
+        "importPath": "cdfi_invoice.models.amount_to_text_es_MX",
+        "description": "cdfi_invoice.models.amount_to_text_es_MX",
+        "peekOfCode": "def get_amount_to_text(self, amount, lang, currency=\"\"):\n    \"\"\"\n    @params amount : Amount for convert to text\n    @params lang  : Language to used for the text converted\n    @params currency : Name of currency used in amount\n    \"\"\"\n    if currency.upper() in ('MXP', 'MXN', 'PESOS', 'PESOS MEXICANOS'):\n        sufijo = 'M. N.'\n        currency = 'PESOS'\n    elif currency.upper() in ('USD'):",
+        "detail": "cdfi_invoice.models.amount_to_text_es_MX",
+        "documentation": {}
+    },
+    {
+        "label": "UnidadMedida",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.catalogos",
+        "description": "cdfi_invoice.models.catalogos",
+        "peekOfCode": "class UnidadMedida(models.Model):\n    _name = 'catalogo.unidad.medida'\n    _rec_name = \"descripcion\"\n    clave = fields.Char(string='Clave')\n    descripcion = fields.Char(string='Descripción')",
+        "detail": "cdfi_invoice.models.catalogos",
+        "documentation": {}
+    },
+    {
+        "label": "FormaPago",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.forma_pago",
+        "description": "cdfi_invoice.models.forma_pago",
+        "peekOfCode": "class FormaPago(models.Model):\n    _name = 'catalogo.forma.pago'\n    _rec_name = \"description\"\n    code = fields.Char(string='Clave')\n    description = fields.Char(string='Descripción')",
+        "detail": "cdfi_invoice.models.forma_pago",
+        "documentation": {}
+    },
+    {
+        "label": "ProductTemplate",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.product",
+        "description": "cdfi_invoice.models.product",
+        "peekOfCode": "class ProductTemplate(models.Model):\n    _inherit = 'product.template'\n    cat_unidad_medida  =  fields.Many2one('catalogo.unidad.medida', string='Unidad SAT')\n    clave_producto = fields.Char(string='Clave producto')\n    objetoimp = fields.Selection(\n        selection=[('01', 'No objeto de impuesto'),\n                   ('02', 'Sí objeto de impuesto'),\n                   ('03', 'Sí objeto del impuesto y no obligado al desglose'),\n                   ('04', 'Si objeto del impuesto y no causa impuesto'),],\n        string=_('Impuestos'),",
+        "detail": "cdfi_invoice.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "ProductComponents",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.product",
+        "description": "cdfi_invoice.models.product",
+        "peekOfCode": "class ProductComponents(models.Model):\n    _name = \"product.parts\"\n    parent_line_id = fields.Many2one('product.template',string=\"Productos padre ID\")\n    product_id = fields.Many2one('product.product', string=\"Partes\")\n    cantidad = fields.Float(string=\"Cantidad\")",
+        "detail": "cdfi_invoice.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "PurchaseOrder",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.purchase",
+        "description": "cdfi_invoice.models.purchase",
+        "peekOfCode": "class PurchaseOrder(models.Model):\n    _inherit = 'purchase.order'\n    factura_cfdi = fields.Boolean('Factura CFDI')\n    tipo_comprobante = fields.Selection(\n        selection=[('I', 'Ingreso'), \n                   ('E', 'Egreso'),\n                    ('T', 'Traslado'),],\n        string=_('Tipo de comprobante'),\n    )\n    forma_pago_id  =  fields.Many2one('catalogo.forma.pago', string='Forma de pago')",
+        "detail": "cdfi_invoice.models.purchase",
+        "documentation": {}
+    },
+    {
+        "label": "RegimenFiscal",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.regimen_fiscal",
+        "description": "cdfi_invoice.models.regimen_fiscal",
+        "peekOfCode": "class RegimenFiscal(models.Model):\n    _name = 'catalogo.regimen.fiscal'\n    _rec_name = \"description\"\n    code = fields.Char(string='Clave')\n    description = fields.Char(string='Descripción')",
+        "detail": "cdfi_invoice.models.regimen_fiscal",
+        "documentation": {}
+    },
+    {
+        "label": "ResCompany",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.res_company",
+        "description": "cdfi_invoice.models.res_company",
+        "peekOfCode": "class ResCompany(models.Model):\n    _inherit = 'res.company'\n    proveedor_timbrado= fields.Selection(\n        selection=[('multifactura', _('Servidor 1')),\n                   ('gecoerp', _('Servidor 2')),\n                   ('multifactura2', _('Servidor 3')),\n                   ('multifactura3', _('Servidor 4')),],\n        string=_('Proveedor de timbrado'), \n    )\n    api_key = fields.Char(string=_('API Key'))",
+        "detail": "cdfi_invoice.models.res_company",
+        "documentation": {}
+    },
+    {
+        "label": "ResCurrency",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.res_currency",
+        "description": "cdfi_invoice.models.res_currency",
+        "peekOfCode": "class ResCurrency(models.Model):\n    _inherit = 'res.currency'\n    no_decimales = fields.Integer('Decimales moneda', default=2, help='Número de decimales máximo para la moneda segun el SAT')\n    no_decimales_tc = fields.Integer('Decimales tipo cambio', default=2, help='Número de decimales para el tipo de cambio')",
+        "detail": "cdfi_invoice.models.res_currency",
+        "documentation": {}
+    },
+    {
+        "label": "ResPartner",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.res_partner",
+        "description": "cdfi_invoice.models.res_partner",
+        "peekOfCode": "class ResPartner(models.Model):\n    _inherit = 'res.partner'\n    residencia_fiscal = fields.Char(string=_('Residencia Fiscal'))\n    registro_tributario = fields.Char(string=_('Registro tributario'))\n    uso_cfdi_id  =  fields.Many2one('catalogo.uso.cfdi', string='Uso CFDI (cliente)')\n    regimen_fiscal_id  =  fields.Many2one('catalogo.regimen.fiscal', string='Régimen Fiscal')\n    @api.constrains('vat', 'country_id')\n    def check_vat(self):\n        # The context key 'no_vat_validation' allows you to store/set a VAT number without doing validations.\n        # This is for API pushes from external platforms where you have no control over VAT numbers.",
+        "detail": "cdfi_invoice.models.res_partner",
+        "documentation": {}
+    },
+    {
+        "label": "SaleOrder",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.sale",
+        "description": "cdfi_invoice.models.sale",
+        "peekOfCode": "class SaleOrder(models.Model):\n    _inherit = 'sale.order'\n    forma_pago_id  =  fields.Many2one('catalogo.forma.pago', string='Forma de pago')\n    #num_cta_pago = fields.Char(string=_('Núm. Cta. Pago'))\n    methodo_pago = fields.Selection(\n        selection=[('PUE', _('Pago en una sola exhibición')),\n                   ('PPD', _('Pago en parcialidades o diferido')),],\n        string=_('Método de pago'), \n    )\n    uso_cfdi_id  =  fields.Many2one('catalogo.uso.cfdi', string='Uso CFDI (cliente)')",
+        "detail": "cdfi_invoice.models.sale",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "cdfi_invoice.models.sale",
+        "description": "cdfi_invoice.models.sale",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nclass SaleOrder(models.Model):\n    _inherit = 'sale.order'\n    forma_pago_id  =  fields.Many2one('catalogo.forma.pago', string='Forma de pago')\n    #num_cta_pago = fields.Char(string=_('Núm. Cta. Pago'))\n    methodo_pago = fields.Selection(\n        selection=[('PUE', _('Pago en una sola exhibición')),\n                   ('PPD', _('Pago en parcialidades o diferido')),],\n        string=_('Método de pago'), \n    )",
+        "detail": "cdfi_invoice.models.sale",
+        "documentation": {}
+    },
+    {
+        "label": "UsoCfdi",
+        "kind": 6,
+        "importPath": "cdfi_invoice.models.uso_cfdi",
+        "description": "cdfi_invoice.models.uso_cfdi",
+        "peekOfCode": "class UsoCfdi(models.Model):\n    _name = 'catalogo.uso.cfdi'\n    _rec_name = \"description\"\n    code = fields.Char(string='Clave')\n    description = fields.Char(string='Descripción')",
+        "detail": "cdfi_invoice.models.uso_cfdi",
+        "documentation": {}
+    },
+    {
+        "label": "import_account_payment_from_xml",
+        "kind": 6,
+        "importPath": "cdfi_invoice.wizard.import_account_payment_xml",
+        "description": "cdfi_invoice.wizard.import_account_payment_xml",
+        "peekOfCode": "class import_account_payment_from_xml(models.TransientModel):\n    _name ='import.account.payment.from.xml'\n    import_file = fields.Binary(\"Importar Archivo\",required=False)\n    file_name = fields.Char(\"Nombre del archivo\")\n    payment_id = fields.Many2one(\"account.payment\",'Payment')\n    def import_xml_file_button(self):\n        self.ensure_one()\n        if not self.import_file:\n            raise UserError(_('Seleccione primero el archivo.'))\n        p, ext = os.path.splitext(self.file_name)",
+        "detail": "cdfi_invoice.wizard.import_account_payment_xml",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "cdfi_invoice.wizard.import_account_payment_xml",
+        "description": "cdfi_invoice.wizard.import_account_payment_xml",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nclass import_account_payment_from_xml(models.TransientModel):\n    _name ='import.account.payment.from.xml'\n    import_file = fields.Binary(\"Importar Archivo\",required=False)\n    file_name = fields.Char(\"Nombre del archivo\")\n    payment_id = fields.Many2one(\"account.payment\",'Payment')\n    def import_xml_file_button(self):\n        self.ensure_one()\n        if not self.import_file:\n            raise UserError(_('Seleccione primero el archivo.'))",
+        "detail": "cdfi_invoice.wizard.import_account_payment_xml",
+        "documentation": {}
+    },
+    {
+        "label": "ReasonCancelation",
+        "kind": 6,
+        "importPath": "cdfi_invoice.wizard.reason_cancelation_sat",
+        "description": "cdfi_invoice.wizard.reason_cancelation_sat",
+        "peekOfCode": "class ReasonCancelation(models.TransientModel):\n    _name ='reason.cancelation'\n    _description = 'reason.cancelation'\n    motivo_cancelacion = fields.Selection(\n        selection=[('01', ('Comprobante emitido con errores con relación')),\n                   ('02', ('Comprobante emitido con errores sin relación')),\n                   ('03', ('No se llevó a cabo la operación')),\n                   ('04', ('Operación nominativa relacionada en la factura global')),\n                   ],\n        string=('Motivo de cancelación'), required=True,",
+        "detail": "cdfi_invoice.wizard.reason_cancelation_sat",
+        "documentation": {}
+    },
+    {
+        "label": "SaleAdvancePaymentInv",
+        "kind": 6,
+        "importPath": "cdfi_invoice.wizard.sale_make_invoice_advance",
+        "description": "cdfi_invoice.wizard.sale_make_invoice_advance",
+        "peekOfCode": "class SaleAdvancePaymentInv(models.TransientModel):\n    _inherit = \"sale.advance.payment.inv\"\n    _description = \"Sales Advance Payment Invoice\"\n    def create_invoices(self):\n        sale_orders = self.env['sale.order'].browse(self._context.get('active_ids', []))\n        if self.advance_payment_method == 'delivered':\n            sale_orders._create_invoices(final=self.deduct_down_payments)\n        else:\n            # Create deposit product if necessary\n            if not self.product_id:",
+        "detail": "cdfi_invoice.wizard.sale_make_invoice_advance",
+        "documentation": {}
+    },
+    {
+        "label": "TableExporterXML",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.controllers.main",
+        "description": "contabilidad_cfdi.controllers.main",
+        "peekOfCode": "class TableExporterXML(http.Controller):\n    @http.route('/web/pivot/export_xml', type='http', auth=\"user\")\n    def export_xml(self, data, token):\n        jdata = json.loads(data)\n        headers = jdata['headers']\n        rows = jdata['rows']\n        jdata['measure_row']\nclass ExcelExportViewAccount(ExcelExport):\n    def __getattr__(self, name):\n        if name == 'fmt':",
+        "detail": "contabilidad_cfdi.controllers.main",
+        "documentation": {}
+    },
+    {
+        "label": "ExcelExportViewAccount",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.controllers.main",
+        "description": "contabilidad_cfdi.controllers.main",
+        "peekOfCode": "class ExcelExportViewAccount(ExcelExport):\n    def __getattr__(self, name):\n        if name == 'fmt':\n            raise AttributeError()\n        return super(ExcelExportViewAccount, self).__getattr__(name)\n    @http.route('/web/export/xls_txt_diot_download', type='http', auth='user')\n    def export_account_xls_txt_view(self, token, **kw):\n        record_ids = json.loads(kw.get('record_ids'))\n        report_type = kw.get('report_type')\n        lines = request.env['reporte.diot.wizard.line'].sudo().search([('id', 'in',record_ids)])",
+        "detail": "contabilidad_cfdi.controllers.main",
+        "documentation": {}
+    },
+    {
+        "label": "AccountAccount",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.models.account_account",
+        "description": "contabilidad_cfdi.models.account_account",
+        "peekOfCode": "class AccountAccount(models.Model):\n    _inherit = 'account.account'\n#    centralized = fields.Boolean('Centralized')\n    cuenta_sat = fields.Char(string='Código agrupador SAT')\n    cuenta_tipo = fields.Selection(\n        selection=[('A', 'Acreedora'), \n                   ('D', 'Deudora'),],\n        string='Tipo Cuenta',\n    )\n   # activo = fields.Boolean('Usar en contabilidad electrónica', default=True)",
+        "detail": "contabilidad_cfdi.models.account_account",
+        "documentation": {}
+    },
+    {
+        "label": "AccountGroup",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.models.account_group",
+        "description": "contabilidad_cfdi.models.account_group",
+        "peekOfCode": "class AccountGroup(models.Model):\n    _inherit = \"account.group\"\n    group_child_ids = fields.One2many(\n        comodel_name=\"account.group\", inverse_name=\"parent_id\", string=\"Grupo de hijos\"\n    )\n    level = fields.Integer(string=\"Nivel\", compute=\"_compute_level\", recursive=True)\n    account_ids = fields.One2many(\n        comodel_name=\"account.account\", inverse_name=\"group_id\", string=\"Cuentas\"\n    )\n    compute_account_ids = fields.Many2many(",
+        "detail": "contabilidad_cfdi.models.account_group",
+        "documentation": {}
+    },
+    {
+        "label": "AccountMove",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.models.account_move",
+        "description": "contabilidad_cfdi.models.account_move",
+        "peekOfCode": "class AccountMove(models.Model):\n    _inherit = 'account.move'\n    contabilidad_electronica = fields.Boolean('CE', default=True)\n    cierre_anual = fields.Boolean('Mes 13', default=False)",
+        "detail": "contabilidad_cfdi.models.account_move",
+        "documentation": {}
+    },
+    {
+        "label": "AccountMoveLine",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.models.account_move_line",
+        "description": "contabilidad_cfdi.models.account_move_line",
+        "peekOfCode": "class AccountMoveLine(models.Model):\n    _inherit = \"account.move.line\"\n    _description = 'AccountMoveLine' \n    contabilidad_electronica = fields.Boolean('CE', compute='_compute_ce')\n    account_cfdi_ids = fields.One2many('account.move.cfdi33','move_line_id', 'CFDI 4.0')\n    def init(self):\n        \"\"\"\n            The join between accounts_partners subquery and account_move_line\n            can be heavy to compute on big databases.\n            Join sample:",
+        "detail": "contabilidad_cfdi.models.account_move_line",
+        "documentation": {}
+    },
+    {
+        "label": "AccountMoveCFDI33",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.models.account_move_line",
+        "description": "contabilidad_cfdi.models.account_move_line",
+        "peekOfCode": "class AccountMoveCFDI33(models.Model):\n    _name = 'account.move.cfdi33'\n    fecha = fields.Date('Fecha')\n    folio = fields.Char('Folio')\n    uuid = fields.Char('UUID')\n    partner_id = fields.Many2one('res.partner','Cliente')\n    rfc_cliente = fields.Char('RFC')\n    moneda = fields.Char('Moneda')\n    tipocamb = fields.Float('T/C')\n    monto = fields.Float('Monto')",
+        "detail": "contabilidad_cfdi.models.account_move_line",
+        "documentation": {}
+    },
+    {
+        "label": "AccountPayment",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.models.account_payment",
+        "description": "contabilidad_cfdi.models.account_payment",
+        "peekOfCode": "class AccountPayment(models.Model):\n    _inherit = 'account.payment'\n    diot = fields.Boolean('DIOT', default = False)\n    diot_no_acreditable = fields.Boolean('No acreditable', default = False)\n    @api.model\n    def create(self, vals):\n        res = super(AccountPayment, self).create(vals)\n        if res.payment_type == 'outbound':\n           res.diot = True\n        return res",
+        "detail": "contabilidad_cfdi.models.account_payment",
+        "documentation": {}
+    },
+    {
+        "label": "ClavePaisesDiot",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.models.paises_diot",
+        "description": "contabilidad_cfdi.models.paises_diot",
+        "peekOfCode": "class ClavePaisesDiot(models.Model):\n    _name = 'catalogos.pais_diot'\n    _rec_name = \"descripcion\"\n    _description = 'claves_paises_diot'\n    c_pais = fields.Char(string='Clave Pais')\n    descripcion = fields.Char(string='Pais')\n    nacionalidad = fields.Char(string='Nacionalidad')",
+        "detail": "contabilidad_cfdi.models.paises_diot",
+        "documentation": {}
+    },
+    {
+        "label": "ResCurrency",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.models.res_currency",
+        "description": "contabilidad_cfdi.models.res_currency",
+        "peekOfCode": "class ResCurrency(models.Model):\n    _inherit = 'res.currency'\n    excel_format_cfdi = fields.Char(string='Excel format', default='_ * #,##0.00_) ;_ * - #,##0.00_) ;_ * \"-\"??_) ;_ @_ ', required=True)",
+        "detail": "contabilidad_cfdi.models.res_currency",
+        "documentation": {}
+    },
+    {
+        "label": "ResPartner",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.models.res_partner",
+        "description": "contabilidad_cfdi.models.res_partner",
+        "peekOfCode": "class ResPartner(models.Model):\n    _inherit = 'res.partner'\n    tipo_proveedor = fields.Selection(\n        selection=[('04', _('04 - Proveedor nacional')),\n                   ('05', _('05 - Proveedor extranjero')),\n                   ('15', _('15 - Proveedor global')),],\n        string=_('Tipo de proveedor'),\n    )\n    tipo_operacion = fields.Selection(\n        selection=[('03', _('03 - Provisión de servicios profesionales')),",
+        "detail": "contabilidad_cfdi.models.res_partner",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractReportXslx",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.report.abstract_report_xlsx",
+        "description": "contabilidad_cfdi.report.abstract_report_xlsx",
+        "peekOfCode": "class AbstractReportXslx(models.AbstractModel):\n    _name = \"report.contabilidad_cfdi.abstract_report_xlsx\"\n    _description = \"Abstract XLSX Account Financial Report\"\n    _inherit = \"report.report_xlsx.abstract\"\n    def get_workbook_options(self):\n        return {\"constant_memory\": True}\n    def generate_xlsx_report(self, workbook, data, objects):\n#         report = objects\n# \n#         self.row_pos = 0",
+        "detail": "contabilidad_cfdi.report.abstract_report_xlsx",
+        "documentation": {}
+    },
+    {
+        "label": "CatalogoCuentasReport",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.report.catalogo_cuentas",
+        "description": "contabilidad_cfdi.report.catalogo_cuentas",
+        "peekOfCode": "class CatalogoCuentasReport(models.AbstractModel):\n    _name = \"report.contabilidad_cfdi.catalogo_cuentas\"\n    _description = \"Catalogo Cuentas Report\"\n    @api.model\n    def get_html(self, given_context=None):\n        return self._get_html()\n    def _get_html(self):\n        result = {}\n        rcontext = {}\n        context = dict(self.env.context)",
+        "detail": "contabilidad_cfdi.report.catalogo_cuentas",
+        "documentation": {}
+    },
+    {
+        "label": "TrialBalanceReport",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.report.trial_balance",
+        "description": "contabilidad_cfdi.report.trial_balance",
+        "peekOfCode": "class TrialBalanceReport(models.AbstractModel):\n    _name = \"report.contabilidad_cfdi.trial_balance\"\n    _description = \"Trial Balance Report\"\n    @api.model\n    def get_html(self, given_context=None):\n        return self._get_html()\n    def _get_html(self):\n        result = {}\n        rcontext = {}\n        context = dict(self.env.context)",
+        "detail": "contabilidad_cfdi.report.trial_balance",
+        "documentation": {}
+    },
+    {
+        "label": "TrialBalanceXslx",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.report.trial_balance_xlsx",
+        "description": "contabilidad_cfdi.report.trial_balance_xlsx",
+        "peekOfCode": "class TrialBalanceXslx(models.AbstractModel):\n    _name = \"report.a_f_r.report_trial_balance_xlsx_contabilidad_cfdi\"\n    _description = \"Trial Balance XLSX Report\"\n    _inherit = \"report.contabilidad_cfdi.abstract_report_xlsx\"\n    def _get_report_name(self, report, data=False):\n        company_id = data.get(\"company_id\", False)\n        report_name = _(\"Trial Balance\")\n        if company_id:\n            company = self.env[\"res.company\"].browse(company_id)\n            suffix = \" - {} - {}\".format(company.name, company.currency_id.name)",
+        "detail": "contabilidad_cfdi.report.trial_balance_xlsx",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractWizard",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.wizard.abstract_wizard",
+        "description": "contabilidad_cfdi.wizard.abstract_wizard",
+        "peekOfCode": "class AbstractWizard(models.AbstractModel):\n    _name = \"contabilidad_cfdi_report_abstract_wizard\"\n    _description = \"Abstract Wizard\"\n    def _get_partner_ids_domain(self):\n        return [\n            \"&\",\n            \"|\",\n            (\"company_id\", \"=\", self.company_id.id),\n            (\"company_id\", \"=\", False),\n            \"|\",",
+        "detail": "contabilidad_cfdi.wizard.abstract_wizard",
+        "documentation": {}
+    },
+    {
+        "label": "ActualizarPolizas",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.wizard.actualizar_polizas",
+        "description": "contabilidad_cfdi.wizard.actualizar_polizas",
+        "peekOfCode": "class ActualizarPolizas(models.TransientModel):\n    _name = 'actualizar.polizas'\n    fecha_inicio = fields.Date('Fecha inicio')\n    fecha_fin = fields.Date('Fecha fin')\n    polizas_de_facturas_de_cliente = fields.Boolean('Facturas / NC de cliente')\n    polizas_de_facturas_de_proveedor = fields.Boolean('Facturas / NC de proveedor')\n    polizas_de_facturas_de_pagos = fields.Boolean('Polizas de pagos')\n    def action_validar_actualizar_polizas(self):\n        if self.polizas_de_facturas_de_cliente:\n            invoices = self.env['account.move'].search([('invoice_date','>=',self.fecha_inicio),",
+        "detail": "contabilidad_cfdi.wizard.actualizar_polizas",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "contabilidad_cfdi.wizard.actualizar_polizas",
+        "description": "contabilidad_cfdi.wizard.actualizar_polizas",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nclass ActualizarPolizas(models.TransientModel):\n    _name = 'actualizar.polizas'\n    fecha_inicio = fields.Date('Fecha inicio')\n    fecha_fin = fields.Date('Fecha fin')\n    polizas_de_facturas_de_cliente = fields.Boolean('Facturas / NC de cliente')\n    polizas_de_facturas_de_proveedor = fields.Boolean('Facturas / NC de proveedor')\n    polizas_de_facturas_de_pagos = fields.Boolean('Polizas de pagos')\n    def action_validar_actualizar_polizas(self):\n        if self.polizas_de_facturas_de_cliente:",
+        "detail": "contabilidad_cfdi.wizard.actualizar_polizas",
+        "documentation": {}
+    },
+    {
+        "label": "CierreAnual",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.wizard.cierre_anual",
+        "description": "contabilidad_cfdi.wizard.cierre_anual",
+        "peekOfCode": "class CierreAnual(models.TransientModel):\n    _name = 'cierre.anual'\n    cuenta_de_resultados = fields.Many2one('account.account', string='Cuenta de resultados')\n    ano = fields.Selection([('2022','2022'),('2021','2021'),('2020','2020'),('2019','2019'),('2018','2018')], string='Ano')\n    journal_id = fields.Many2one('account.journal',string='Diario')\n    def validar_cierre_anual(self):\n        journal_entries = self.env['account.move'].search([('state', '=', 'posted'), ('contabilidad_electronica', '=', True)])\n        lines_dict = {}\n        for journal in journal_entries:\n            if journal.date.year == int(self.ano):",
+        "detail": "contabilidad_cfdi.wizard.cierre_anual",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "contabilidad_cfdi.wizard.cierre_anual",
+        "description": "contabilidad_cfdi.wizard.cierre_anual",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nclass CierreAnual(models.TransientModel):\n    _name = 'cierre.anual'\n    cuenta_de_resultados = fields.Many2one('account.account', string='Cuenta de resultados')\n    ano = fields.Selection([('2022','2022'),('2021','2021'),('2020','2020'),('2019','2019'),('2018','2018')], string='Ano')\n    journal_id = fields.Many2one('account.journal',string='Diario')\n    def validar_cierre_anual(self):\n        journal_entries = self.env['account.move'].search([('state', '=', 'posted'), ('contabilidad_electronica', '=', True)])\n        lines_dict = {}\n        for journal in journal_entries:",
+        "detail": "contabilidad_cfdi.wizard.cierre_anual",
+        "documentation": {}
+    },
+    {
+        "label": "FoliosReport",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.wizard.folios_report",
+        "description": "contabilidad_cfdi.wizard.folios_report",
+        "peekOfCode": "class FoliosReport(models.TransientModel):\n    _name = 'folios.report'\n    fecha_mes = fields.Selection([('01', 'Enero'), ('02', 'Febrero'), ('03', 'Marzo'), ('04', 'Abril'), ('05', 'Mayo'), ('06', 'Junio'),\n                                    ('07', 'Julio'), ('08', 'Agosto'), ('09', 'Septiembre'), ('10', 'Octubre'), ('11', 'Noviembre'), ('12', 'Diciembre')],\n                                   string='Mes', required= True)\n    fecha_ano = fields.Selection([('2020', '2020'),('2021', '2021'),('2022', '2022'),('2023', '2023')],\n                                   required= True, string='Año')\n    tiposolicitud = fields.Selection(\n        selection=[('AF', 'Acto de Fiscalización'), \n                   ('FC', 'Fiscalización Compulsa'),",
+        "detail": "contabilidad_cfdi.wizard.folios_report",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "contabilidad_cfdi.wizard.folios_report",
+        "description": "contabilidad_cfdi.wizard.folios_report",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nfrom datetime import datetime, timedelta\nfrom dateutil.relativedelta import relativedelta\nclass FoliosReport(models.TransientModel):\n    _name = 'folios.report'\n    fecha_mes = fields.Selection([('01', 'Enero'), ('02', 'Febrero'), ('03', 'Marzo'), ('04', 'Abril'), ('05', 'Mayo'), ('06', 'Junio'),\n                                    ('07', 'Julio'), ('08', 'Agosto'), ('09', 'Septiembre'), ('10', 'Octubre'), ('11', 'Noviembre'), ('12', 'Diciembre')],\n                                   string='Mes', required= True)\n    fecha_ano = fields.Selection([('2020', '2020'),('2021', '2021'),('2022', '2022'),('2023', '2023')],\n                                   required= True, string='Año')",
+        "detail": "contabilidad_cfdi.wizard.folios_report",
+        "documentation": {}
+    },
+    {
+        "label": "GenerarXmlHirarchyWizard",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.wizard.generar_xml_hirarchy",
+        "description": "contabilidad_cfdi.wizard.generar_xml_hirarchy",
+        "peekOfCode": "class GenerarXmlHirarchyWizard(models.TransientModel):\n    _name = 'generar.xml.hirarchy.wizard'\n    fecha_mes = fields.Selection([('01', 'Enero'), ('02', 'Febrero'), ('03', 'Marzo'), ('04', 'Abril'), ('05', 'Mayo'), ('06', 'Junio'),\n                                    ('07', 'Julio'), ('08', 'Agosto'), ('09', 'Septiembre'), ('10', 'Octubre'), ('11', 'Noviembre'), ('12', 'Diciembre')],\n                                   string='Mes', store=True)\n    fecha_ano = fields.Selection([('2023', '2023'),('2022','2022'),('2018', '2018'), ('2019', '2019'),('2020', '2020'),('2021', '2021')],\n                                   string='Año', store=True)\n    procesa_nivel = fields.Char(string='Nivel a procesar', store=True, default='2')\n    tipo_de_reporte = fields.Selection([('Catalogo de cuentas','Catalogo de cuentas'),('Balance mensual', 'Balance mensual')],string='Tipo de reporte')\n    tipoenvio = fields.Selection([('N', 'Normal'), ('C', 'Complementaria')],",
+        "detail": "contabilidad_cfdi.wizard.generar_xml_hirarchy",
+        "documentation": {}
+    },
+    {
+        "label": "ContaXMLZIPDownload",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.wizard.generar_xml_hirarchy",
+        "description": "contabilidad_cfdi.wizard.generar_xml_hirarchy",
+        "peekOfCode": "class ContaXMLZIPDownload(models.TransientModel):\n    _name = 'conta.xml.zip.download'\n    xml_data = fields.Binary(\"XML File\")\n    zip_data = fields.Binary(\"Zip File\")\n    def download_xml_zip_file(self):\n        if self._context.get('file_type','')=='zip':\n            field_name = 'zip_data'\n            filename = '%s.zip'%self._context.get('conta_name')\n        else:\n            field_name = 'xml_data'",
+        "detail": "contabilidad_cfdi.wizard.generar_xml_hirarchy",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "contabilidad_cfdi.wizard.generar_xml_hirarchy",
+        "description": "contabilidad_cfdi.wizard.generar_xml_hirarchy",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nclass GenerarXmlHirarchyWizard(models.TransientModel):\n    _name = 'generar.xml.hirarchy.wizard'\n    fecha_mes = fields.Selection([('01', 'Enero'), ('02', 'Febrero'), ('03', 'Marzo'), ('04', 'Abril'), ('05', 'Mayo'), ('06', 'Junio'),\n                                    ('07', 'Julio'), ('08', 'Agosto'), ('09', 'Septiembre'), ('10', 'Octubre'), ('11', 'Noviembre'), ('12', 'Diciembre')],\n                                   string='Mes', store=True)\n    fecha_ano = fields.Selection([('2023', '2023'),('2022','2022'),('2018', '2018'), ('2019', '2019'),('2020', '2020'),('2021', '2021')],\n                                   string='Año', store=True)\n    procesa_nivel = fields.Char(string='Nivel a procesar', store=True, default='2')\n    tipo_de_reporte = fields.Selection([('Catalogo de cuentas','Catalogo de cuentas'),('Balance mensual', 'Balance mensual')],string='Tipo de reporte')",
+        "detail": "contabilidad_cfdi.wizard.generar_xml_hirarchy",
+        "documentation": {}
+    },
+    {
+        "label": "PolizasReport",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.wizard.polizas_report",
+        "description": "contabilidad_cfdi.wizard.polizas_report",
+        "peekOfCode": "class PolizasReport(models.TransientModel):\n    _name = 'polizas.report'\n    fecha_mes = fields.Selection([('01', 'Enero'), ('02', 'Febrero'), ('03', 'Marzo'), ('04', 'Abril'), ('05', 'Mayo'), ('06', 'Junio'),\n                                    ('07', 'Julio'), ('08', 'Agosto'), ('09', 'Septiembre'), ('10', 'Octubre'), ('11', 'Noviembre'), ('12', 'Diciembre')],\n                                   string='Mes', required= True)\n    fecha_ano = fields.Selection([('2023', '2023'),('2022', '2022'),('2021', '2021')],\n                                   required= True, string='Año')\n    tiposolicitud = fields.Selection(\n        selection=[('AF', 'Acto de Fiscalización'), \n                   ('FC', 'Fiscalización Compulsa'),",
+        "detail": "contabilidad_cfdi.wizard.polizas_report",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "contabilidad_cfdi.wizard.polizas_report",
+        "description": "contabilidad_cfdi.wizard.polizas_report",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nfrom datetime import datetime, timedelta\nfrom dateutil.relativedelta import relativedelta\nclass PolizasReport(models.TransientModel):\n    _name = 'polizas.report'\n    fecha_mes = fields.Selection([('01', 'Enero'), ('02', 'Febrero'), ('03', 'Marzo'), ('04', 'Abril'), ('05', 'Mayo'), ('06', 'Junio'),\n                                    ('07', 'Julio'), ('08', 'Agosto'), ('09', 'Septiembre'), ('10', 'Octubre'), ('11', 'Noviembre'), ('12', 'Diciembre')],\n                                   string='Mes', required= True)\n    fecha_ano = fields.Selection([('2023', '2023'),('2022', '2022'),('2021', '2021')],\n                                   required= True, string='Año')",
+        "detail": "contabilidad_cfdi.wizard.polizas_report",
+        "documentation": {}
+    },
+    {
+        "label": "ReporteDIOTWizard",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.wizard.reporte_diot",
+        "description": "contabilidad_cfdi.wizard.reporte_diot",
+        "peekOfCode": "class ReporteDIOTWizard(models.TransientModel):\n    _name = 'reporte.diot.wizard'\n    _description = 'reporte_diot_wizard'\n    year = fields.Selection([('2023','2023'),('2022','2022'),('2021','2021'),('2020','2020'),('2019','2019'), ('2018','2018'), ('2017','2017')], string=\"Año\", required=1)\n    month = fields.Selection([('01','Enero'),('02','Febrero'),('03','Marzo'),('04','Abril'),('05','Mayo'),('06','Junio'),('07','Julio'),('08','Agosto'),('09','Septiembre'),('10','Octubre'),('11', 'Noviembre'),('12','Diciembre')], string='Mes', required=1)\n    def action_view_report(self):\n        date_from = self.year+'-'+self.month+'-01'\n        date_to = self.year+'-'+self.month+'-'+str(calendar.monthrange(int(self.year),int(self.month))[1])\n        payment_ids = self.env['account.payment'].search([#('partner_type','=','supplier'),\n                                                           ('payment_type','=', 'outbound'),",
+        "detail": "contabilidad_cfdi.wizard.reporte_diot",
+        "documentation": {}
+    },
+    {
+        "label": "ReporteDIOTWizardLine",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.wizard.reporte_diot",
+        "description": "contabilidad_cfdi.wizard.reporte_diot",
+        "peekOfCode": "class ReporteDIOTWizardLine(models.TransientModel):\n    _name = 'reporte.diot.wizard.line'\n    _description = 'reporte_diot_line'\n    tipo_proveedor = fields.Selection(\n        selection=[('04', _('04 - Proveedor nacional')),\n                   ('05', _('05 - Proveedor extranjero')),\n                   ('15', _('15 - Proveedor global')),],string=_('Tipo de tercero'),) #uno\n    tipo_operacion = fields.Selection(\n        selection=[('03', _('03 - Provisión de servicios profesionales')), #dos\n                   ('06', _('06 - Arrendamientos')),",
+        "detail": "contabilidad_cfdi.wizard.reporte_diot",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "contabilidad_cfdi.wizard.reporte_diot",
+        "description": "contabilidad_cfdi.wizard.reporte_diot",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nclass ReporteDIOTWizard(models.TransientModel):\n    _name = 'reporte.diot.wizard'\n    _description = 'reporte_diot_wizard'\n    year = fields.Selection([('2023','2023'),('2022','2022'),('2021','2021'),('2020','2020'),('2019','2019'), ('2018','2018'), ('2017','2017')], string=\"Año\", required=1)\n    month = fields.Selection([('01','Enero'),('02','Febrero'),('03','Marzo'),('04','Abril'),('05','Mayo'),('06','Junio'),('07','Julio'),('08','Agosto'),('09','Septiembre'),('10','Octubre'),('11', 'Noviembre'),('12','Diciembre')], string='Mes', required=1)\n    def action_view_report(self):\n        date_from = self.year+'-'+self.month+'-01'\n        date_to = self.year+'-'+self.month+'-'+str(calendar.monthrange(int(self.year),int(self.month))[1])\n        payment_ids = self.env['account.payment'].search([#('partner_type','=','supplier'),",
+        "detail": "contabilidad_cfdi.wizard.reporte_diot",
+        "documentation": {}
+    },
+    {
+        "label": "TrialBalanceReportWizard",
+        "kind": 6,
+        "importPath": "contabilidad_cfdi.wizard.trial_balance_wizard",
+        "description": "contabilidad_cfdi.wizard.trial_balance_wizard",
+        "peekOfCode": "class TrialBalanceReportWizard(models.TransientModel):\n    \"\"\"Trial balance report wizard.\"\"\"\n    _name = \"trial.balance.report.wizard.cfdi\"\n    _description = \"Trial Balance Report Wizard\"\n    _inherit = \"contabilidad_cfdi_report_abstract_wizard\"\n    company_id = fields.Many2one(\n        comodel_name=\"res.company\",\n        default=lambda self: self.env.user.company_id,\n        required=False,\n        string=\"Compañia\",",
+        "detail": "contabilidad_cfdi.wizard.trial_balance_wizard",
+        "documentation": {}
+    },
+    {
+        "label": "DateRange",
+        "kind": 6,
+        "importPath": "date_range.models.date_range",
+        "description": "date_range.models.date_range",
+        "peekOfCode": "class DateRange(models.Model):\n    _name = \"date.range\"\n    _description = \"Date Range\"\n    _order = \"type_name,date_start\"\n    @api.model\n    def _default_company(self):\n        return self.env.company\n    name = fields.Char(required=True, translate=True)\n    date_start = fields.Date(string=\"Start date\", required=True)\n    date_end = fields.Date(string=\"End date\", required=True)",
+        "detail": "date_range.models.date_range",
+        "documentation": {}
+    },
+    {
+        "label": "DateRangeSearchMixin",
+        "kind": 6,
+        "importPath": "date_range.models.date_range_search_mixin",
+        "description": "date_range.models.date_range_search_mixin",
+        "peekOfCode": "class DateRangeSearchMixin(models.AbstractModel):\n    _name = \"date.range.search.mixin\"\n    _description = \"Mixin class to add a Many2one style period search field\"\n    _date_range_search_field = \"date\"\n    date_range_search_id = fields.Many2one(\n        comodel_name=\"date.range\",\n        string=\"Filter by period (technical field)\",\n        compute=\"_compute_date_range_search_id\",\n        search=\"_search_date_range_search_id\",\n    )",
+        "detail": "date_range.models.date_range_search_mixin",
+        "documentation": {}
+    },
+    {
+        "label": "DateRangeType",
+        "kind": 6,
+        "importPath": "date_range.models.date_range_type",
+        "description": "date_range.models.date_range_type",
+        "peekOfCode": "class DateRangeType(models.Model):\n    _name = \"date.range.type\"\n    _description = \"Date Range Type\"\n    @api.model\n    def _default_company(self):\n        return self.env.company\n    name = fields.Char(required=True, translate=True)\n    allow_overlap = fields.Boolean(\n        help=\"If sets date range of same type must not overlap.\", default=False\n    )",
+        "detail": "date_range.models.date_range_type",
+        "documentation": {}
+    },
+    {
+        "label": "TestDateRangeSearchMixin",
+        "kind": 6,
+        "importPath": "date_range.tests.models",
+        "description": "date_range.tests.models",
+        "peekOfCode": "class TestDateRangeSearchMixin(models.Model):\n    _name = \"test.date.range.search.mixin\"\n    _inherit = [\"date.range.search.mixin\"]\n    _date_range_search_field = \"test_date\"\n    name = fields.Char()\n    test_date = fields.Date()",
+        "detail": "date_range.tests.models",
+        "documentation": {}
+    },
+    {
+        "label": "DateRangeTest",
+        "kind": 6,
+        "importPath": "date_range.tests.test_date_range",
+        "description": "date_range.tests.test_date_range",
+        "peekOfCode": "class DateRangeTest(TransactionCase):\n    def setUp(self):\n        super(DateRangeTest, self).setUp()\n        self.date_range = self.env[\"date.range\"]\n        self.type = self.env[\"date.range.type\"].create(\n            {\"name\": \"Fiscal year\", \"company_id\": False, \"allow_overlap\": False}\n        )\n        self.company = self.env[\"res.company\"].create({\"name\": \"Test company\"})\n        self.company_2 = self.env[\"res.company\"].create(\n            {\"name\": \"Test company 2\", \"parent_id\": self.company.id}",
+        "detail": "date_range.tests.test_date_range",
+        "documentation": {}
+    },
+    {
+        "label": "DateRangeGeneratorTest",
+        "kind": 6,
+        "importPath": "date_range.tests.test_date_range_generator",
+        "description": "date_range.tests.test_date_range_generator",
+        "peekOfCode": "class DateRangeGeneratorTest(TransactionCase):\n    def setUp(self):\n        super(DateRangeGeneratorTest, self).setUp()\n        self.generator = self.env[\"date.range.generator\"]\n        self.type = self.env[\"date.range.type\"].create(\n            {\"name\": \"Fiscal year\", \"company_id\": False, \"allow_overlap\": False}\n        )\n        self.company = self.env[\"res.company\"].create({\"name\": \"Test company\"})\n        self.company_2 = self.env[\"res.company\"].create(\n            {\"name\": \"Test company 2\", \"parent_id\": self.company.id}",
+        "detail": "date_range.tests.test_date_range_generator",
+        "documentation": {}
+    },
+    {
+        "label": "TestDateRangeearchMixin",
+        "kind": 6,
+        "importPath": "date_range.tests.test_date_range_search_mixin",
+        "description": "date_range.tests.test_date_range_search_mixin",
+        "peekOfCode": "class TestDateRangeearchMixin(TransactionCase):\n    @classmethod\n    def setUpClass(cls):\n        super().setUpClass()\n        # Load a test model using odoo_test_helper\n        cls.loader = FakeModelLoader(cls.env, cls.__module__)\n        cls.loader.backup_registry()\n        from .models import TestDateRangeSearchMixin\n        cls.loader.update_registry((TestDateRangeSearchMixin,))\n        cls.env.user.lang = \"en_US\"",
+        "detail": "date_range.tests.test_date_range_search_mixin",
+        "documentation": {}
+    },
+    {
+        "label": "DateRangeTypeTest",
+        "kind": 6,
+        "importPath": "date_range.tests.test_date_range_type",
+        "description": "date_range.tests.test_date_range_type",
+        "peekOfCode": "class DateRangeTypeTest(TransactionCase):\n    def setUp(self):\n        super(DateRangeTypeTest, self).setUp()\n        self.type = self.env[\"date.range.type\"]\n        self.company = self.env[\"res.company\"].create({\"name\": \"Test company\"})\n        self.company_2 = self.env[\"res.company\"].create(\n            {\"name\": \"Test company 2\", \"parent_id\": self.company.id}\n        )\n    def test_default_company(self):\n        drt = self.type.create({\"name\": \"Fiscal year\", \"allow_overlap\": False})",
+        "detail": "date_range.tests.test_date_range_type",
+        "documentation": {}
+    },
+    {
+        "label": "DateRangeGenerator",
+        "kind": 6,
+        "importPath": "date_range.wizard.date_range_generator",
+        "description": "date_range.wizard.date_range_generator",
+        "peekOfCode": "class DateRangeGenerator(models.TransientModel):\n    _name = \"date.range.generator\"\n    _description = \"Date Range Generator\"\n    name_expr = fields.Text(\n        \"Range name expression\",\n        compute=\"_compute_name_expr\",\n        readonly=False,\n        store=True,\n        help=(\n            \"Evaluated expression. E.g. \"",
+        "detail": "date_range.wizard.date_range_generator",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "date_range.wizard.date_range_generator",
+        "description": "date_range.wizard.date_range_generator",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nclass DateRangeGenerator(models.TransientModel):\n    _name = \"date.range.generator\"\n    _description = \"Date Range Generator\"\n    name_expr = fields.Text(\n        \"Range name expression\",\n        compute=\"_compute_name_expr\",\n        readonly=False,\n        store=True,\n        help=(",
+        "detail": "date_range.wizard.date_range_generator",
+        "documentation": {}
+    },
+    {
+        "label": "ResCompany",
+        "kind": 6,
+        "importPath": "jazzy_backend_theme.models.res_company",
+        "description": "jazzy_backend_theme.models.res_company",
+        "peekOfCode": "class ResCompany(models.Model):\n    \"\"\"Inherits the Res Company Model\"\"\"\n    _inherit = 'res.company'\n    background_image = fields.Binary(string=\"Background Image\", attachment=True)",
+        "detail": "jazzy_backend_theme.models.res_company",
+        "documentation": {}
+    },
+    {
+        "label": "ResConfigSettings",
+        "kind": 6,
+        "importPath": "jazzy_backend_theme.models.res_config_settings",
+        "description": "jazzy_backend_theme.models.res_config_settings",
+        "peekOfCode": "class ResConfigSettings(models.TransientModel):\n    \"\"\"Inherits the Configuration settings Model\"\"\"\n    _inherit = 'res.config.settings'\n    theme_background = fields.Binary(string=\"App menu Background\",\n                                     related='company_id.background_image',\n                                     readonly=False)\n    app_bar_color = fields.Char(string='Appbar color',\n                                config_parameter='jazzy_backend_theme.appbar_color',\n                                default='#000000')\n    primary_accent = fields.Char(string=\"Navbar color\",",
+        "detail": "jazzy_backend_theme.models.res_config_settings",
+        "documentation": {}
+    },
+    {
+        "label": "ReportController",
+        "kind": 6,
+        "importPath": "report_xlsx.controllers.main",
+        "description": "report_xlsx.controllers.main",
+        "peekOfCode": "class ReportController(ReportController):\n    @route()\n    def report_routes(self, reportname, docids=None, converter=None, **data):\n        if converter == \"xlsx\":\n            report = request.env[\"ir.actions.report\"]._get_report_from_name(reportname)\n            context = dict(request.env.context)\n            if docids:\n                docids = [int(i) for i in docids.split(\",\")]\n            if data.get(\"options\"):\n                data.update(json.loads(data.pop(\"options\")))",
+        "detail": "report_xlsx.controllers.main",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "report_xlsx.controllers.main",
+        "description": "report_xlsx.controllers.main",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nclass ReportController(ReportController):\n    @route()\n    def report_routes(self, reportname, docids=None, converter=None, **data):\n        if converter == \"xlsx\":\n            report = request.env[\"ir.actions.report\"]._get_report_from_name(reportname)\n            context = dict(request.env.context)\n            if docids:\n                docids = [int(i) for i in docids.split(\",\")]\n            if data.get(\"options\"):",
+        "detail": "report_xlsx.controllers.main",
+        "documentation": {}
+    },
+    {
+        "label": "ReportAction",
+        "kind": 6,
+        "importPath": "report_xlsx.models.ir_report",
+        "description": "report_xlsx.models.ir_report",
+        "peekOfCode": "class ReportAction(models.Model):\n    _inherit = \"ir.actions.report\"\n    report_type = fields.Selection(\n        selection_add=[(\"xlsx\", \"XLSX\")], ondelete={\"xlsx\": \"set default\"}\n    )\n    @api.model\n    def _render_xlsx(self, report_ref, docids, data):\n        report_sudo = self._get_report(report_ref)\n        report_model_name = \"report.%s\" % report_sudo.report_name\n        report_model = self.env[report_model_name]",
+        "detail": "report_xlsx.models.ir_report",
+        "documentation": {}
+    },
+    {
+        "label": "ReportXlsxAbstract",
+        "kind": 6,
+        "importPath": "report_xlsx.report.report_abstract_xlsx",
+        "description": "report_xlsx.report.report_abstract_xlsx",
+        "peekOfCode": "class ReportXlsxAbstract(models.AbstractModel):\n    _name = \"report.report_xlsx.abstract\"\n    _description = \"Abstract XLSX Report\"\n    def _get_objs_for_report(self, docids, data):\n        \"\"\"\n        Returns objects for xlx report.  From WebUI these\n        are either as docids taken from context.active_ids or\n        in the case of wizard are in data.  Manual calls may rely\n        on regular context, setting docids, or setting data.\n        :param docids: list of integers, typically provided by",
+        "detail": "report_xlsx.report.report_abstract_xlsx",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "report_xlsx.report.report_abstract_xlsx",
+        "description": "report_xlsx.report.report_abstract_xlsx",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\ntry:\n    import xlsxwriter\n    class PatchedXlsxWorkbook(xlsxwriter.Workbook):\n        def _check_sheetname(self, sheetname, is_chartsheet=False):\n            \"\"\"We want to avoid duplicated sheet names exceptions the same following\n            the same philosophy that Odoo implements overriding the main library\n            to avoid the 31 characters limit triming the strings before sending them\n            to the library.\n            In some cases, there's not much control over this as the reports send",
+        "detail": "report_xlsx.report.report_abstract_xlsx",
+        "documentation": {}
+    },
+    {
+        "label": "PartnerXlsx",
+        "kind": 6,
+        "importPath": "report_xlsx.report.report_partner_xlsx",
+        "description": "report_xlsx.report.report_partner_xlsx",
+        "peekOfCode": "class PartnerXlsx(models.AbstractModel):\n    _name = \"report.report_xlsx.partner_xlsx\"\n    _inherit = \"report.report_xlsx.abstract\"\n    _description = \"Partner XLSX Report\"\n    def generate_xlsx_report(self, workbook, data, partners):\n        sheet = workbook.add_worksheet(\"Report\")\n        for i, obj in enumerate(partners):\n            bold = workbook.add_format({\"bold\": True})\n            sheet.write(i, 0, obj.name, bold)",
+        "detail": "report_xlsx.report.report_partner_xlsx",
+        "documentation": {}
+    },
+    {
+        "label": "TestReport",
+        "kind": 6,
+        "importPath": "report_xlsx.tests.test_report",
+        "description": "report_xlsx.tests.test_report",
+        "peekOfCode": "class TestReport(common.TransactionCase):\n    def setUp(self):\n        super().setUp()\n        self.report_object = self.env[\"ir.actions.report\"]\n        self.xlsx_report = self.env[\"report.report_xlsx.abstract\"].with_context(\n            active_model=\"res.partner\"\n        )\n        self.report_name = \"report_xlsx.partner_xlsx\"\n        self.report = self.report_object._get_report_from_name(self.report_name)\n        self.docs = self.env[\"res.company\"].search([], limit=1).partner_id",
+        "detail": "report_xlsx.tests.test_report",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "report_xlsx.tests.test_report",
+        "description": "report_xlsx.tests.test_report",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\ntry:\n    from xlrd import open_workbook\nexcept ImportError:\n    _logger.debug(\"Can not import xlrd`.\")\nclass TestReport(common.TransactionCase):\n    def setUp(self):\n        super().setUp()\n        self.report_object = self.env[\"ir.actions.report\"]\n        self.xlsx_report = self.env[\"report.report_xlsx.abstract\"].with_context(",
+        "detail": "report_xlsx.tests.test_report",
+        "documentation": {}
+    },
+    {
+        "label": "RouteFleet",
+        "kind": 6,
+        "importPath": "route_travel.models.route_fleet",
+        "description": "route_travel.models.route_fleet",
+        "peekOfCode": "class RouteFleet(models.Model):\n    _name = 'route.fleet'\n    _description = 'Viaje'\n    departure_travel    = fields.Datetime('Hora y fecha de salida')\n    return_travel       = fields.Datetime('Hora y fecha de salida')\n    origen              = fields.Many2one('res.country.state', 'Ciudad de origen')\n    destination         = fields.Many2one('res.country.state', 'Ciudad de destino')\n    folio_route         = fields.Integer('Folio')\n    description         = fields.Text('Descripción')\n    loaded              = fields.Boolean('Cargado de salida')",
+        "detail": "route_travel.models.route_fleet",
+        "documentation": {}
+    },
+    {
+        "label": "_logger",
+        "kind": 5,
+        "importPath": "route_travel.models.route_fleet",
+        "description": "route_travel.models.route_fleet",
+        "peekOfCode": "_logger = logging.getLogger(__name__)\nclass RouteFleet(models.Model):\n    _name = 'route.fleet'\n    _description = 'Viaje'\n    departure_travel    = fields.Datetime('Hora y fecha de salida')\n    return_travel       = fields.Datetime('Hora y fecha de salida')\n    origen              = fields.Many2one('res.country.state', 'Ciudad de origen')\n    destination         = fields.Many2one('res.country.state', 'Ciudad de destino')\n    folio_route         = fields.Integer('Folio')\n    description         = fields.Text('Descripción')",
+        "detail": "route_travel.models.route_fleet",
+        "documentation": {}
+    }
+]

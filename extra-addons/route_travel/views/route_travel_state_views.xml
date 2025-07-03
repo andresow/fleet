@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <!-- View route.travel.state View Tree -->
+    <record id="view_route_travel_state_tree" model="ir.ui.view">
+        <field name="name">view.route.travel.state.tree</field>
+        <field name="model">route.travel.state</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="name"/>
+            </tree>
+        </field>
+    </record>
+
+    <!-- View route.travel.state form -->
+    <record id="view_route_travel_state_form" model="ir.ui.view">
+        <field name="name">view.route.travel.state.form</field>
+        <field name="model">route.travel.state</field>
+        <field name="arch" type="xml">
+            <form string="Route Travel State">
+                <sheet>
+                    <div class="oe_title">
+                        <label for="name"/>
+                        <h1>
+                            <field name="name" placeholder="Name..."/>
+                        </h1>
+                    </div>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <!-- View route.travel.state search -->
+    <record id="view_route_travel_state_search" model="ir.ui.view">
+        <field name="name">view.route.travel.state.search</field>
+        <field name="model">route.travel.state</field>
+        <field name="arch" type="xml">
+            <search>
+                <group expand="1" string="Group By">
+                    <filter string="Name" name="name" domain="[]" context="{'group_by':'name'}"/>
+                </group>
+            </search>
+        </field>
+    </record>
+
+    <!-- Action route.travel.state -->
+    <record id="action_route_travel_state" model="ir.actions.act_window">
+        <field name="name">Route Travel State</field>
+        <field name="type">ir.actions.act_window</field>
+        <field name="res_model">route.travel.state</field>
+        <field name="view_mode">tree,form</field>
+        <field name="domain">[]</field>
+        <field name="context">{}</field>
+        <field name="help" type="html">
+            <p class="oe_view_nocontent_create">
+                There is no examples click here to add new Route Travel State.
+            </p>
+        </field>
+    </record>
+
+</odoo>

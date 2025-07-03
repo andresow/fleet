@@ -1,0 +1,28 @@
+version: '3.7'
+services:
+  odoo_fleet:
+    container_name: odoo_fleet
+    image: odoo:16.0
+    restart: always
+    depends_on:
+      - db_fleet
+    ports:
+      - 8069:8069
+    volumes:
+      - ./volumes/odoo-data:/var/lib/odoo
+      - ./odoo/config/local.conf:/etc/odoo/odoo.conf
+      - ./extra-addons:/mnt/extra-addons
+    entrypoint: /usr/bin/odoo -c /etc/odoo/odoo.conf --dev all
+  db_fleet:
+    container_name: db_fleet
+    image: postgres:13
+    restart: always
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_PASSWORD=odoo
+      - POSTGRES_USER=odoo
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    volumes:
+      -  ${PWD}/volumes/postgres-data:/var/lib/postgresql/data/pgdata
+    ports:
+      - 5432:5432
